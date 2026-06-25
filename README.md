@@ -24,10 +24,12 @@ Motivated Data Analyst seeking an entry-level role to contribute technical skill
 ## 📂   Projects Links
 
 ### 📊 Warehouse Efficiency & Logistics Optimization Project
-* **Overview:** Developed a data analysis project focused on warehouse efficiency optimization using logistics datasets.
-* **Implementation:** Cleaned and manipulated data variables to evaluate storage and retrieval performance metrics.
-* **Tech Stack:** Python (Pandas, NumPy, Seaborn), PowerBI.
 * **[🔗 Link to Repository]([(https://github.com/vishwasmeti258-sketch/Warehouse_Efficiency))**
+
+### Saled forecasting - https://github.com/vishwasmeti258-sketch/Sale_forecasting
+### Churn Analysis - https://github.com/vishwasmeti258-sketch/Churn_analysis
+### Website behavior Analysis - https://github.com/vishwasmeti258-sketch/Website_Behaviour_analysis
+
 
 ---
 
@@ -37,18 +39,19 @@ Motivated Data Analyst seeking an entry-level role to contribute technical skill
 * Hands-on tasks involving data cleaning, automated spreadsheet reporting, and dashboard maintenance.
 * Ready to work with real world problems.
 
+
 ---
 
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/vishwa-m-7431bb228" target="_blank">
+  <a href="" target="www.linkedin.com/in/vishwa-m-7431bb228">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
   </a>
-  <a href="Vishwasmeti258@gmail.com" target="_blank">
+  <a href="" target="Vishwasmeti258@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="" target="_blank">
+  <a href="" target="https://github.com/vishwasmeti258-sketch/Vishwasmeti258">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile">
   </a>
 </p>
