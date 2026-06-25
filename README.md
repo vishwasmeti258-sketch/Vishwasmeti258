@@ -43,6 +43,8 @@ Motivated Data Analyst seeking an entry-level role to contribute technical skill
 
 ## 🤝 Connect with Me
 
-** linkedin :- www.linkedin.com/in/vishwa-m-7431bb228
-** Email :- Vishwasmeti258@gmail.com
-** Github profile :- https://github.com/vishwasmeti258-sketch/Vishwasmeti258
+** linkedin **:- www.linkedin.com/in/vishwa-m-7431bb228
+
+** Email **:- Vishwasmeti258@gmail.com
+
+** Github profile ** :- https://github.com/vishwasmeti258-sketch/Vishwasmeti258
