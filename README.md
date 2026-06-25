@@ -23,10 +23,9 @@ Motivated Data Analyst seeking an entry-level role to contribute technical skill
 
 ## 📂   Projects Links
 
-### 📊 Warehouse Efficiency & Logistics Optimization Project
-* **[🔗 Link to Repository]([(https://github.com/vishwasmeti258-sketch/Warehouse_Efficiency))**
+### 📊 Warehouse Efficiency & Logistics Optimization Project - https://github.com/vishwasmeti258sketch/Warehouse_Efficiency
 
-### Saled forecasting - https://github.com/vishwasmeti258-sketch/Sale_forecasting
+### Sales forecasting - https://github.com/vishwasmeti258-sketch/Sale_forecasting
 ### Churn Analysis - https://github.com/vishwasmeti258-sketch/Churn_analysis
 ### Website behavior Analysis - https://github.com/vishwasmeti258-sketch/Website_Behaviour_analysis
 
@@ -44,14 +43,6 @@ Motivated Data Analyst seeking an entry-level role to contribute technical skill
 
 ## 🤝 Connect with Me
 
-<p align="left">
-  <a href="" target="www.linkedin.com/in/vishwa-m-7431bb228">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-  </a>
-  <a href="" target="Vishwasmeti258@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="" target="https://github.com/vishwasmeti258-sketch/Vishwasmeti258">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile">
-  </a>
-</p>
+** linkedin :- www.linkedin.com/in/vishwa-m-7431bb228
+** Email :- Vishwasmeti258@gmail.com
+** Github profile :- https://github.com/vishwasmeti258-sketch/Vishwasmeti258
